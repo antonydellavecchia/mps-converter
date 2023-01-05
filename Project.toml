@@ -1,2 +1,3 @@
 [deps]
+Oscar = "f1435218-dba5-11e9-1e4d-f1a5fab5fc13"
 QPSReader = "10f199a5-22af-520b-b891-7ce84a7b1bd0"
